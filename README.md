@@ -24,6 +24,10 @@ The app utilizes Google Maps and Firebase for data storage and retrieval.
 - Google Maps API Key
 - Firebase project setup with Firestore or Realtime Database
 
+## License
+
+This project is licensed under an "All Rights Reserved" License. All rights to the SmoothRide application and its source code are owned by [Your Name]. Any unauthorized use, distribution, or modification of the code is strictly prohibited. For any inquiries, please contact [Your Email].
+
 ## Installation
 
 1. **Clone the repository**:
